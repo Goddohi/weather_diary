@@ -1,0 +1,6 @@
+POST http://localhost:8080/create/diary?date=2024-09-30
+Content-Type: application/json
+
+{
+  "text": "오늘의 일기 내용ss"
+}
